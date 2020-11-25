@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Ex_2 {
+public class Rock_Paper_Scissor {
     public static void main(String[] args) {
         // Rock, Paper, Scissor Game
         // 1 = Rock
